@@ -2,24 +2,24 @@
   <class>
     <identifier>COM 333</identifier>
     <name>Application Programming Interfaces</name>
-    <instuctor>Karl Stolley</instructor>
+    <instructor>Karl Stolley</instructor>
   </class>
   <students>
     <student>
       <first_name>Bob</first_name>
-      <last-name>Adams</last_name>
+      <last_name>Adams</last_name>
       <id>A99999998</id>
       <email>badams@fake.example.com</email>
     </student>
     <student>
       <first_name>Pat</first_name>
-      <last-name>Johnson</last_name>
+      <last_name>Johnson</last_name>
       <id>A99999997</id>
       <email>pjohnso@fake.example.com</email>
     </student>
     <student>
       <first_name>Katie</first_name>
-      <last-name>Smith</last_name>
+      <last_name>Smith</last_name>
       <id>A99999999</id>
       <email>ksmith@fake.example.com</email>
     </student>
